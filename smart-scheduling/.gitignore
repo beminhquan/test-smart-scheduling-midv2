@@ -24,8 +24,8 @@ scratch/
 screenshot_*.png
 *.report.txt
 scripts/after/
-reports/
-reports
+/reports/
+/reports
 coverage/
 coverage
 
